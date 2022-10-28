@@ -49,6 +49,9 @@ public class Cell {
         return options.removeIf(s -> s.equalsIgnoreCase(option));
     }
     public String typeRandomizer(){
+
+        if((rng.nextInt()+1)%5==1 && options.size()>2)options.remove("ALL");
+        if((rng.nextInt()+1)%3==0 && options.contains("BLANK"))return "BLANK";
         return options.get(Math.abs(rng.nextInt()%options.size()));
     }
 
