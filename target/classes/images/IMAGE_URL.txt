@@ -1,0 +1,6 @@
+up    - https://media.discordapp.net/attachments/804781929349251144/1034856232386830357/up.png
+down  - https://media.discordapp.net/attachments/804781929349251144/1034856216180031568/down.png
+left  - https://media.discordapp.net/attachments/804781929349251144/1034856219300593824/left.png
+right - https://media.discordapp.net/attachments/804781929349251144/1034856227076837516/right.png
+blank - https://media.discordapp.net/attachments/804781929349251144/1034856205530697748/blank.png
+all   - https://media.discordapp.net/attachments/804781929349251144/1034856189550411847/all.png

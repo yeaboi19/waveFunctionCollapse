@@ -1,0 +1,13 @@
+body{
+    background: rgba(17, 17, 17, 0.30);
+}
+.centerTable{
+    margin: auto;
+    /*width: 50%;*/
+
+    /*padding: 10px;*/
+    text-align: center;
+}
+.tableBorder{
+    border: 3px solid black;
+}
